@@ -1,0 +1,1 @@
+swiftでget通信
